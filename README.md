@@ -23,3 +23,7 @@ Install dependency
 Run project
 
 - npm start
+
+
+## License
+This project is under MIT license.
