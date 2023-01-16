@@ -8,9 +8,9 @@ This repo contains the Formik exercise from MIT Full Stack development course. M
 
 A simple login form using the Formik library. This exercise targets a few skills building
 
-Using the "useFormik" hook
-Validate input data
-Use regular expressions
+1. Using the "useFormik" hook
+2. Validate input data
+3. Use regular expressions
 
 ## Install
 
