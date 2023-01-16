@@ -18,8 +18,8 @@ Clone or download this repo, go to the project folder and run the following comm
 
 Install dependency
 
-npm install
+### npm install
 
 Run project
 
-npm start
+### npm start
