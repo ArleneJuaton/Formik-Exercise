@@ -1,5 +1,6 @@
 import React from "react"
 import { useFormik } from "formik";
+import BasicForm from "./components/BasicForm";
 
 
 function App() {
