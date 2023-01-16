@@ -1,5 +1,5 @@
 # Formik-Exercise
-Formik Exercise
+## Formik Exercise
 
 This repo contains the Formik exercise from MIT Full Stack development course. More information on Formik 
 <a href="https://formik.org">here</a>.
@@ -18,8 +18,8 @@ Clone or download this repo, go to the project folder and run the following comm
 
 Install dependency
 
-### npm install
+- npm install
 
 Run project
 
-### npm start
+- npm start
