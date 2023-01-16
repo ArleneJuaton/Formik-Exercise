@@ -1,7 +1,8 @@
 # Formik-Exercise
 Formik Exercise
 
-This repo contains the Formik exercise from MIT Full Stack development course. More information on Formik (https://formik.org).
+This repo contains the Formik exercise from MIT Full Stack development course. More information on Formik 
+<a href: https://formik.org).
 
 Description
 
