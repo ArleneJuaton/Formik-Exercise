@@ -17,7 +17,9 @@ Use regular expressions
 Clone or download this repo, go to the project folder and run the following commands from a terminal window:
 
 Install dependency
+
 npm install
 
 Run project
+
 npm start
